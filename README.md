@@ -1,1 +1,2 @@
-# minha-primeira-landpage-html-css
+# minha-primeira-landpage
+para visualizar acesse: https://minha-primeira-landpage.netlify.app/
